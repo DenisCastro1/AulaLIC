@@ -1,5 +1,6 @@
 valor=int(input("Digite o valor:"))
 dia=0
+x=1
 
 
 while valor>0 :
