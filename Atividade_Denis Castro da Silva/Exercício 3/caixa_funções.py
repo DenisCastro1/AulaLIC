@@ -4,7 +4,7 @@ def receber_pedido():
     lista_preços=[]
     
     i=1
-    while i<=3:
+    while i<=7:
         nome=str(input("Digite seu nome:"))
         lista_nomes.append(nome)
         pedido=str(input("Digite seu pedido:"))
